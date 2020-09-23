@@ -1,0 +1,95 @@
+
+body {
+    font-family: Helvetica, sans-serif;
+    padding: 20px;
+  }
+  
+  .cabecera {
+    text-align: center;
+    padding-top: 5px;
+    height: 200px;
+    background-image: url("../imagenes/fondo1.jpg");
+    background-size: 100% 100%;
+  }
+
+  .cabecera2 {
+    margin: auto;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    height: 95px;
+    width: 20%;
+    font-size: 6px;
+    text-align: center;
+    background-color: teal;
+    color: rgb(255, 255, 255);
+    font-family: Helvetica, sans-serif;
+    font-style: bold;
+  }
+
+  .cabecera3 {
+    text-align: center;
+    background-image: url("../imagenes/fondo2.jpg");
+    background-repeat: no-repeat;
+    height: 180px;
+    padding-top: 5px;
+    background-size: 100% 200%;
+  }
+
+  .cabecera4 {
+    margin: auto;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    height: 40px;
+    width: 100%;
+    font-size: 12px;
+    text-align: center;
+    color: yellowgreen;
+    font-family: comic;
+  }
+
+  .cabecera5 {
+    margin: auto;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    height: 40px;
+    width: 100%;
+    font-size: 6px;
+    text-align: center;
+    color: yellowgreen;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: oblique;
+  }
+
+  h4 {
+    font-size: 15px;
+    text-align: center;
+    color:teal;
+    font-family: garamond;
+    font-style: bold;
+  }
+  
+  h3 {
+    font-size: 20px;
+    color:teal;
+    font-family: garamond;
+    font-style: bold;
+    padding-left: 10px;
+  }
+  .logo{
+    padding-top: 10px;
+    padding-bottom: 15px;
+  }
+  .imagenes {
+    padding-left: 580px;
+  }
+  .imagenes2 {
+    padding-left: 880px;
+    margin-top: -60px;
+  }
+
+  .logocircular{
+  clip-path: circle(30% at 50% 50%);
+  background-image: url("imagenes/miguel-de-cervantes.jpg");
+  margin: auto;
+  background-size: 100% 100%;
+  }
